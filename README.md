@@ -1,1 +1,1 @@
-This project offers PDF question-answering and summarization using RAG. It extracts text, divides it into chunks, stores it in a FAISS database, and uses Google Generative AI for responses. The BART model is used for summarization when direct answers are not available.
+Question Answering Chabot using Retrieval Augmented Generation (RAG)
